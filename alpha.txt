@@ -1,1 +1,2 @@
 this is content to the alpha.txt file
+adding line from main to alpha file
